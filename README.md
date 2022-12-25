@@ -1,0 +1,1 @@
+# TitanicSurvivalPrediction This is an application that predicts whether a person with some age , class , gender , age would have survived in the titanic or not , this uses logistic regression to do so 
